@@ -19,6 +19,6 @@ resource "aws_instance" "web-ks" {
   instance_type = "t2-micro"
 
   tags = {
-    Name = "HelloWorld"
+    Name = "Myworldoftfc"
   }
 }
